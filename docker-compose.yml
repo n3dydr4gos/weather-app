@@ -1,0 +1,5 @@
+services:
+  weather-app:
+    build: .
+    ports:
+      - "8080:80"
