@@ -14,7 +14,7 @@ A simple frontend application that shows the **current weather** in Turin using 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/n3dydr4gos/weather-app.git
 cd weather-app
 ```
 
